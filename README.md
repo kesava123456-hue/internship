@@ -37,16 +37,6 @@ Welcome to my personal portfolio website! Built using **Tailwind CSS**, with dar
 
 ---
 
-## 📷 Preview Screenshots
-
-| Light Mode | Dark Mode |
-|------------|-----------|
-| ![Light Mode](https://via.placeholder.com/400x200?text=Light+Mode) | ![Dark Mode](https://via.placeholder.com/400x200?text=Dark+Mode) |
-
-> _Replace placeholder images with actual screenshots._
-
----
-
 ## 📬 Contact
 
 - **Email**: [chagaleti777@gmail.com](mailto:chagaleti777@gmail.com)
